@@ -31,7 +31,7 @@ tracks_dir <- file.path("output", output_pipeline_dir, "tracks_byReplicate")
 message("mkdir -p ", file.path(workdir, tracks_dir))
 
 #
-bamCoverage_path <- "/cvmfs/soft.mugqic/CentOS6/software/deepTools/deepTools-3.5.0/bin/bamCoverage"
+# bamCoverage_path <- "/cvmfs/soft.mugqic/CentOS6/software/deepTools/deepTools-3.5.0/bin/bamCoverage"
 
 #
 ENCODE_blacklist <- "input/ENCODE_exclusion_list_regions_ENCFF356LFX.bed"
@@ -60,7 +60,7 @@ for (i in 1:nrow(df)) {
   #                           "-o", bw)
   # message(call_bamCoverage)
   
-  call_bamCoverage <- paste(bamCoverage_path,
+  call_bamCoverage <- paste("bamCoverage",
                             # "--extendReads", 225,
                             "-e",
                             "--binSize", 50,

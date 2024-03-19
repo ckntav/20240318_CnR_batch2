@@ -9,4 +9,4 @@
 #SBATCH --mail-type=ALL
 
 
-/cvmfs/soft.mugqic/CentOS6/software/deepTools/deepTools-3.5.0/bin/bamCoverage -e --binSize 50 -p 16 --normalizeUsing RPKM --blackListFileName /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/input/ENCODE_exclusion_list_regions_ENCFF356LFX.bed -b /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/output/cnr-pipeline_batch2-GRCh38_PE/alignment/VCaP_AR_R1881_rep1/VCaP_AR_R1881_rep1.sorted.markdup.filtered.bam -o /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/output/cnr-pipeline_batch2-GRCh38_PE/tracks_byReplicate/VCaP_AR_R1881_rep1_RPKM.bw
+bamCoverage -e --binSize 50 -p 16 --normalizeUsing RPKM --blackListFileName /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/input/ENCODE_exclusion_list_regions_ENCFF356LFX.bed -b /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/output/cnr-pipeline_batch2-GRCh38_PE/alignment/VCaP_AR_R1881_rep1/VCaP_AR_R1881_rep1.sorted.markdup.filtered.bam -o /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/output/cnr-pipeline_batch2-GRCh38_PE/tracks_byReplicate/VCaP_AR_R1881_rep1_RPKM.bw
