@@ -1,0 +1,20 @@
+#!/bin/sh
+
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_HeLa_AR_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_HeLa_H3K4me3_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_HeLa_IgG_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_MCF7_ER_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_MCF7_IgG_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_AR_EtOH_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_AR_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_AR_R1881xE2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_AR_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_ER_EtOH_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_ER_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_ER_R1881xE2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_ER_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_H3K4me3_EtOH_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_IgG_EtOH_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_IgG_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_IgG_R1881xE2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/02_fastp/batch_sh/fastp_VCaP_IgG_R1881_rep1.sh

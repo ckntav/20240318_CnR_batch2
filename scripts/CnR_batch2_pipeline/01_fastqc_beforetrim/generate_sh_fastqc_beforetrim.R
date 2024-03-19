@@ -9,7 +9,7 @@ fastq_list_filename <- "20240318_CnR_batch2_fastq_list.txt"
 
 #
 df <- read_tsv(file.path("input", "batch2", fastq_list_filename))
-fastq_folder <- "batch2"
+fastq_folder <- "cnr_batch2"
 output_pipeline_dir <- "cnr-pipeline_batch2-GRCh38_PE"
 script_pipeline_dir <- "CnR_batch2_pipeline"
 

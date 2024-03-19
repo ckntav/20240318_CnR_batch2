@@ -12,4 +12,4 @@
 mkdir -p /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/output/cnr-pipeline_batch2-GRCh38_PE/fastqc_beforetrim_output/VCaP_ER_E2_rep1_R2
 
 
-/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/fastqc/0.11.9/fastqc --outdir /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/output/cnr-pipeline_batch2-GRCh38_PE/fastqc_beforetrim_output/VCaP_ER_E2_rep1_R2 --format fastq /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/raw/batch2/raw_fastq/NS.LH00487_0035.001.UDI0027_i7---UDI0027_i5.SB-FK-UL_VCAP_CnR_ER_E2_10nM_30min_R1_R2.fastq.gz
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/fastqc/0.11.9/fastqc --outdir /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/output/cnr-pipeline_batch2-GRCh38_PE/fastqc_beforetrim_output/VCaP_ER_E2_rep1_R2 --format fastq /home/chris11/projects/def-stbil30/chris11/20240318_CnR_batch2/raw/cnr_batch2/raw_fastq/NS.LH00487_0035.001.UDI0027_i7---UDI0027_i5.SB-FK-UL_VCAP_CnR_ER_E2_10nM_30min_R1_R2.fastq.gz
