@@ -39,7 +39,7 @@ for (i in 1:nrow(df)) {
   bam_trt <- file.path(workdir, alignment_dir, sample_name, paste0(sample_name, ".sorted.markdup.filtered.bam"))
   
   #
-  sample_name_ctrl <- paste(sep = "_", cell_line, "IgG", condition)
+  sample_name_ctrl <- paste(sep = "_", cell_line, "IgG", condition, "rep1")
   
   #
   # if (cell_line == "VCAP") {
