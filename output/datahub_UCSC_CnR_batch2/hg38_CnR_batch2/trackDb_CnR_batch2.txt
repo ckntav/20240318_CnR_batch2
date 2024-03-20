@@ -1,0 +1,197 @@
+track HeLa_AR_R1881
+bigDataUrl HeLa_AR_R1881_rep1_RPKM.bw
+shortLabel HeLa_AR_R1881
+longLabel HeLa_AR_R1881
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 83, 221, 108
+maxHeightPixels 100:75:8
+
+track HeLa_H3K4me3_R1881
+bigDataUrl HeLa_H3K4me3_R1881_rep1_RPKM.bw
+shortLabel HeLa_H3K4me3_R1881
+longLabel HeLa_H3K4me3_R1881
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 83, 221, 108
+maxHeightPixels 100:75:8
+
+track MCF7_ER_E2
+bigDataUrl MCF7_ER_E2_rep1_RPKM.bw
+shortLabel MCF7_ER_E2
+longLabel MCF7_ER_E2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 99, 160, 136
+maxHeightPixels 100:75:8
+
+track VCaP_AR_EtOH
+bigDataUrl VCaP_AR_EtOH_rep1_RPKM.bw
+shortLabel VCaP_AR_EtOH
+longLabel VCaP_AR_EtOH
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 99, 138
+maxHeightPixels 100:75:8
+
+track VCaP_AR_E2
+bigDataUrl VCaP_AR_E2_rep1_RPKM.bw
+shortLabel VCaP_AR_E2
+longLabel VCaP_AR_E2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 99, 138
+maxHeightPixels 100:75:8
+
+track VCaP_AR_R1881xE2
+bigDataUrl VCaP_AR_R1881xE2_rep1_RPKM.bw
+shortLabel VCaP_AR_R1881xE2
+longLabel VCaP_AR_R1881xE2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 99, 138
+maxHeightPixels 100:75:8
+
+track VCaP_AR_R1881
+bigDataUrl VCaP_AR_R1881_rep1_RPKM.bw
+shortLabel VCaP_AR_R1881
+longLabel VCaP_AR_R1881
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 99, 138
+maxHeightPixels 100:75:8
+
+track VCaP_ER_EtOH
+bigDataUrl VCaP_ER_EtOH_rep1_RPKM.bw
+shortLabel VCaP_ER_EtOH
+longLabel VCaP_ER_EtOH
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 72, 58, 88
+maxHeightPixels 100:75:8
+
+track VCaP_ER_E2
+bigDataUrl VCaP_ER_E2_rep1_RPKM.bw
+shortLabel VCaP_ER_E2
+longLabel VCaP_ER_E2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 72, 58, 88
+maxHeightPixels 100:75:8
+
+track VCaP_ER_R1881xE2
+bigDataUrl VCaP_ER_R1881xE2_rep1_RPKM.bw
+shortLabel VCaP_ER_R1881xE2
+longLabel VCaP_ER_R1881xE2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 72, 58, 88
+maxHeightPixels 100:75:8
+
+track VCaP_ER_R1881
+bigDataUrl VCaP_ER_R1881_rep1_RPKM.bw
+shortLabel VCaP_ER_R1881
+longLabel VCaP_ER_R1881
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 72, 58, 88
+maxHeightPixels 100:75:8
+
+track VCaP_H3K4me3_EtOH
+bigDataUrl VCaP_H3K4me3_EtOH_rep1_RPKM.bw
+shortLabel VCaP_H3K4me3_EtOH
+longLabel VCaP_H3K4me3_EtOH
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 72, 58, 88
+maxHeightPixels 100:75:8
+
+track HeLa_IgG_R1881
+bigDataUrl HeLa_IgG_R1881_rep1_RPKM.bw
+shortLabel HeLa_IgG_R1881
+longLabel HeLa_IgG_R1881
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 32, 61
+maxHeightPixels 100:75:8
+
+track MCF7_IgG_E2
+bigDataUrl MCF7_IgG_E2_rep1_RPKM.bw
+shortLabel MCF7_IgG_E2
+longLabel MCF7_IgG_E2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 32, 61
+maxHeightPixels 100:75:8
+
+track VCaP_IgG_E2
+bigDataUrl VCaP_IgG_E2_rep1_RPKM.bw
+shortLabel VCaP_IgG_E2
+longLabel VCaP_IgG_E2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 32, 61
+maxHeightPixels 100:75:8
+
+track VCaP_IgG_EtOH
+bigDataUrl VCaP_IgG_EtOH_rep1_RPKM.bw
+shortLabel VCaP_IgG_EtOH
+longLabel VCaP_IgG_EtOH
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 32, 61
+maxHeightPixels 100:75:8
+
+track VCaP_IgG_R1881xE2
+bigDataUrl VCaP_IgG_R1881xE2_rep1_RPKM.bw
+shortLabel VCaP_IgG_R1881xE2
+longLabel VCaP_IgG_R1881xE2
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 32, 61
+maxHeightPixels 100:75:8
+
+track VCaP_IgG_R1881
+bigDataUrl VCaP_IgG_R1881_rep1_RPKM.bw
+shortLabel VCaP_IgG_R1881
+longLabel VCaP_IgG_R1881
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 86, 32, 61
+maxHeightPixels 100:75:8

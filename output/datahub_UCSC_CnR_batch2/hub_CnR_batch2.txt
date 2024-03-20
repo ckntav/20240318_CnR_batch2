@@ -1,0 +1,6 @@
+hub CnR_batch2
+shortLabel CnR_batch2
+longLabel CnR_batch2
+genomesFile genomes_CnR_batch2.txt
+email christophe.tav@crchudequebec.ulaval.ca
+descriptionUrl
